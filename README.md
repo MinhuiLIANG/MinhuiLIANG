@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I am just an average PhD student (probably below average 😓)
+- 🌱 I am just an average PhD student (probably below average 😓).
 - ⚡ I want to mix the 2-D virtual world with the real world...
 - 💬 Discuss HCI, LLM, and intelligent assistants with me!
 
