@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhuiLIANG&count_private=true)
+- 🌱 I am just an average PhD student (probably below average 😓)
+- ⚡ I want to mix the 2-D virtual world with the real world...
+- 💬 Discuss HCI, LLM, and intelligent assistants with me!
+
 <!--
 **MinhuiLIANG/MinhuiLIANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
