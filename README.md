@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I am just an average CS PhD student (probably below average 😓).
-- ⚡ I want to mix the 2-D virtual world with the real world...
+- 🌱 I am just an average CS PhD candidate (probably below average 😓) in BiWell Lab.
+- ⚡ I have a broad interest in HCI-related research...
 - 💬 Discuss HCI, LLM, and intelligent assistants with me!
 
 <!--
