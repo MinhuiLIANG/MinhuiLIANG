@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I am just an average CS PhD candidate (probably below average 😓) in BiWell Lab.
+- 🌱 I am just an average CS PhD candidate (probably below average 😓) at BiWell Lab.
 - ⚡ I have a broad interest in HCI-related research...
 - 💬 Discuss HCI, LLM, and intelligent assistants with me!
 
